@@ -2,7 +2,7 @@
   import svelteLogo from './assets/svelte.svg';
 
   import { onMount } from 'svelte';
-  import { BackendService } from "@genezio-sdk/project-name_us-east-1"
+  import { BackendService } from "@genezio-sdk/(•◡•)project-name(•◡•)_(•◡•)region(•◡•)"
 
   let name = '';
   let response = '';
